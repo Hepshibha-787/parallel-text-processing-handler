@@ -90,6 +90,8 @@ People reference rule
 Each rule uses regex to detect specific themes or sentence patterns.
 
 🚀 8. How the Pipeline Works
+
+
 ✔ Step 1 – Data Reading
 
 Loads the speech text from the input folder.
@@ -153,6 +155,8 @@ word_frequency_bar.png
 chunk_score_histogram.png
 
 🧪 10. Sample Results
+
+
 ✔ Rule Matches
 
 Shows which sentences triggered which rule.
@@ -200,6 +204,8 @@ Build a web dashboard for visualising results
 Support multiple datasets beyond speeches
 
 ✔️ 14. How to Run This Project
+
+
 Step 1: Clone Repository
 git clone https://github.com/your-username/your-repo-name.git
 
