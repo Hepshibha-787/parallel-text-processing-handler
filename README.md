@@ -2,6 +2,8 @@
 A text processing system for rule-based analysis of the 'I Have a Dream' speech.
 ✨ Parallel Text Processing Handler – Speech Analysis Project
 By Hepshibha Majji
+
+
 📌 1. Project Overview
 
 This project is a Parallel Text Processing System built to analyze the speech “I Have a Dream” by Martin Luther King Jr.
@@ -58,9 +60,11 @@ This makes it ideal for pattern detection, parallel processing, and building a t
 <img width="500" height="500" alt="Image Dec 4, 2025, 09_38_47 PM" src="https://github.com/user-attachments/assets/5db990b7-0d17-4762-97c7-ff8d1ec81ed4" />
 
 
+
 🧩 6. System Architecture
 
 <img width="500" height="500" alt="Image_q5o5anq5o5anq5o5" src="https://github.com/user-attachments/assets/bfb46dae-c742-4e63-a01b-d69faef1f44e" />
+
 
 
 🔍 7. Rule Categories Used
