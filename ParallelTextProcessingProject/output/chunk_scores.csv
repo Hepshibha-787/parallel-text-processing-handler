@@ -1,0 +1,41 @@
+chunk_index,matched_rules_count,matched_rules,text_preview
+0,3,"[""FREEDOM_RULE"", ""EMOTION_POS_RULE"", ""PEOPLE_RULE""]",i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
+1,1,"[""HOPE_RULE""]","five score years ago, a great american, in whose symbolic shadow we stand today, signed the emancipation proclamation. this momentous decree came as a great beacon light of hope to millions of negro slaves who had been seared in the flames of witheri"
+2,0,[],"but one hundred years later, the negro still is not free. one hundred years later, the life of the negro is still sadly crippled by the manacles of segregation and the chains of discrimination. one hundred years later, the negro lives on a lonely isl"
+3,2,"[""METAPHOR_RULE"", ""PEOPLE_RULE""]","in a sense we've come to our nation's capital to cash a check. when the architects of our republic wrote the magnificent words of the constitution and the declaration of independence, they were signing a promissory note to which every american was to"
+4,4,"[""FREEDOM_RULE"", ""JUSTICE_RULE"", ""METAPHOR_RULE"", ""PEOPLE_RULE""]","but we refuse to believe that the bank of justice is bankrupt. we refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation. and so, we've come to cash this check, a check that will give us upon demand the "
+5,3,"[""JUSTICE_RULE"", ""REPETITION_RULE"", ""PEOPLE_RULE""]",we have also come to this hallowed spot to remind america of the fierce urgency of now. this is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism. now is the time to make real the promises of democracy. no
+6,6,"[""FREEDOM_RULE"", ""JUSTICE_RULE"", ""HOPE_RULE"", ""EMOTION_NEG_RULE"", ""REPETITION_RULE"", ""PEOPLE_RULE""]","it would be fatal for the nation to overlook the urgency of the moment. this sweltering summer of the negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality. nineteen sixty-three is not an end, but a"
+7,2,"[""FREEDOM_RULE"", ""PEOPLE_RULE""]","the marvelous new militancy which has engulfed the negro community must not lead us to a distrust of all white people, for many of our white brothers, as evidenced by their presence here today, have come to realize that their destiny is tied up with "
+8,0,[],we cannot walk alone.
+9,1,"[""REPETITION_RULE""]","and as we walk, we must make the pledge that we shall always march ahead."
+10,0,[],we cannot turn back.
+11,4,"[""FREEDOM_RULE"", ""JUSTICE_RULE"", ""LOCATION_RULE"", ""PEOPLE_RULE""]","there are those who are asking the devotees of civil rights, ""when will you be satisfied?"" we can never be satisfied as long as the negro is the victim of the unspeakable horrors of police brutality. we can never be satisfied as long as our bodies, h"
+12,0,[],"let us not wallow in the valley of despair, i say to you today, my friends."
+13,1,"[""DREAM_RULE""]","and so even though we face the difficulties of today and tomorrow, i still have a dream. it is a dream deeply rooted in the american dream."
+14,2,"[""DREAM_RULE"", ""PEOPLE_RULE""]","i have a dream that one day this nation will rise up and live out the true meaning of its creed: ""we hold these truths to be self-evident, that all men are created equal."""
+15,2,"[""DREAM_RULE"", ""LOCATION_RULE""]","i have a dream that one day on the red hills of georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood."
+16,4,"[""FREEDOM_RULE"", ""DREAM_RULE"", ""JUSTICE_RULE"", ""LOCATION_RULE""]","i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice."
+17,2,"[""DREAM_RULE"", ""PEOPLE_RULE""]",i have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
+18,3,"[""DREAM_RULE"", ""LOCATION_RULE"", ""PEOPLE_RULE""]","i have a dream today!
+i have a dream that one day, down in alabama, with its vicious racists, with its governor having his lips dripping with the words of ""interposition"" and ""nullification"" -- one day right there in alabama little black boys and bla"
+19,1,"[""DREAM_RULE""]",i have a dream today!
+20,1,"[""DREAM_RULE""]","i have a dream that one day every valley shall be exalted, and every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight; ""and the glory of the lord shall be revealed and all flesh sh"
+21,1,"[""HOPE_RULE""]","this is our hope, and this is the faith that i go back to the south with."
+22,3,"[""FREEDOM_RULE"", ""HOPE_RULE"", ""PEOPLE_RULE""]","with this faith, we will be able to hew out of the mountain of despair a stone of hope. with this faith, we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood. with this faith, we will be able to wo"
+23,1,"[""PEOPLE_RULE""]",and this will be the day -- this will be the day when all of god's children will be able to sing with new meaning:
+24,2,"[""FREEDOM_RULE"", ""REPETITION_RULE""]","my country 'tis of thee, sweet land of liberty, of thee i sing. land where my fathers died, land of the pilgrim's pride,    from every mountainside, let freedom ring!"
+25,1,"[""PEOPLE_RULE""]","and if america is to be a great nation, this must become true."
+26,2,"[""FREEDOM_RULE"", ""REPETITION_RULE""]",and so let freedom ring from the prodigious hilltops of new hampshire.
+27,3,"[""FREEDOM_RULE"", ""LOCATION_RULE"", ""REPETITION_RULE""]",let freedom ring from the mighty mountains of new york.
+28,2,"[""FREEDOM_RULE"", ""REPETITION_RULE""]",let freedom ring from the heightening alleghenies of pennsylvania.
+29,2,"[""FREEDOM_RULE"", ""REPETITION_RULE""]",let freedom ring from the snow-capped rockies of colorado.
+30,3,"[""FREEDOM_RULE"", ""LOCATION_RULE"", ""REPETITION_RULE""]",let freedom ring from the curvaceous slopes of california.
+31,0,[],but not only that:
+32,3,"[""FREEDOM_RULE"", ""LOCATION_RULE"", ""REPETITION_RULE""]",let freedom ring from stone mountain of georgia.
+33,2,"[""FREEDOM_RULE"", ""REPETITION_RULE""]",let freedom ring from lookout mountain of tennessee.
+34,3,"[""FREEDOM_RULE"", ""LOCATION_RULE"", ""REPETITION_RULE""]",let freedom ring from every hill and molehill of mississippi.
+35,3,"[""FREEDOM_RULE"", ""REPETITION_RULE"", ""PEOPLE_RULE""]","from every mountainside, let freedom ring.
+and when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of god's childre"
+36,0,[],free at last! free at last!
+37,0,[],"thank god almighty, we are free at last!3"

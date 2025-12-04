@@ -1,0 +1,95 @@
+rule,chunk_index,sentence
+FREEDOM_RULE,0,i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation
+EMOTION_POS_RULE,0,i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation
+PEOPLE_RULE,0,i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation
+HOPE_RULE,1,this momentous decree came as a great beacon light of hope to millions of negro slaves who had been seared in the flames of withering injustice
+METAPHOR_RULE,3,in a sense we've come to our nation's capital to cash a check
+METAPHOR_RULE,3,"instead of honoring this sacred obligation, america has given the negro people a bad check, a check which has come back marked ""insufficient funds"
+PEOPLE_RULE,3,in a sense we've come to our nation's capital to cash a check
+PEOPLE_RULE,3,"instead of honoring this sacred obligation, america has given the negro people a bad check, a check which has come back marked ""insufficient funds"
+FREEDOM_RULE,4,"and so, we've come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice"
+JUSTICE_RULE,4,but we refuse to believe that the bank of justice is bankrupt
+JUSTICE_RULE,4,"and so, we've come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice"
+METAPHOR_RULE,4,but we refuse to believe that the bank of justice is bankrupt
+METAPHOR_RULE,4,"and so, we've come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice"
+PEOPLE_RULE,4,we refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation
+JUSTICE_RULE,5,now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice
+JUSTICE_RULE,5,now is the time to make justice a reality for all of god's children
+REPETITION_RULE,5,now is the time to make real the promises of democracy
+REPETITION_RULE,5,now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice
+REPETITION_RULE,5,now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood
+REPETITION_RULE,5,now is the time to make justice a reality for all of god's children
+PEOPLE_RULE,5,now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood
+PEOPLE_RULE,5,now is the time to make justice a reality for all of god's children
+FREEDOM_RULE,6,this sweltering summer of the negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality
+FREEDOM_RULE,6,let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred
+JUSTICE_RULE,6,the whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges
+JUSTICE_RULE,6,"but there is something that i must say to my people, who stand on the warm threshold which leads into the palace of justice: in the process of gaining our rightful place, we must not be guilty of wrongful deeds"
+HOPE_RULE,6,and those who hope that the negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual
+EMOTION_NEG_RULE,6,let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred
+REPETITION_RULE,6,"but there is something that i must say to my people, who stand on the warm threshold which leads into the palace of justice: in the process of gaining our rightful place, we must not be guilty of wrongful deeds"
+REPETITION_RULE,6,we must forever conduct our struggle on the high plane of dignity and discipline
+REPETITION_RULE,6,we must not allow our creative protest to degenerate into physical violence
+REPETITION_RULE,6,"again and again, we must rise to the majestic heights of meeting physical force with soul force"
+PEOPLE_RULE,6,it would be fatal for the nation to overlook the urgency of the moment
+PEOPLE_RULE,6,and those who hope that the negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual
+PEOPLE_RULE,6,the whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges
+PEOPLE_RULE,6,"but there is something that i must say to my people, who stand on the warm threshold which leads into the palace of justice: in the process of gaining our rightful place, we must not be guilty of wrongful deeds"
+FREEDOM_RULE,7,and they have come to realize that their freedom is inextricably bound to our freedom
+PEOPLE_RULE,7,"the marvelous new militancy which has engulfed the negro community must not lead us to a distrust of all white people, for many of our white brothers, as evidenced by their presence here today, have come to realize that their destiny is tied up with our destiny"
+REPETITION_RULE,9,"and as we walk, we must make the pledge that we shall always march ahead"
+FREEDOM_RULE,11,and some of you have come from areas where your quest -- quest for freedom left you battered by the storms of persecution and staggered by the winds of police brutality
+JUSTICE_RULE,11,"no, no, we are not satisfied, and we will not be satisfied until ""justice rolls down like waters, and righteousness like a mighty stream"
+LOCATION_RULE,11,"""** we cannot be satisfied as long as a negro in mississippi cannot vote and a negro in new york believes he has nothing for which to vote"
+LOCATION_RULE,11,"go back to mississippi, go back to alabama, go back to south carolina, go back to georgia, go back to louisiana, go back to the slums and ghettos of our northern cities, knowing that somehow this situation can and will be changed"
+PEOPLE_RULE,11,"we can never be satisfied as long as our children are stripped of their self-hood and robbed of their dignity by signs stating: ""for whites only"
+DREAM_RULE,13,"and so even though we face the difficulties of today and tomorrow, i still have a dream"
+DREAM_RULE,13,it is a dream deeply rooted in the american dream
+DREAM_RULE,14,"i have a dream that one day this nation will rise up and live out the true meaning of its creed: ""we hold these truths to be self-evident, that all men are created equal"
+PEOPLE_RULE,14,"i have a dream that one day this nation will rise up and live out the true meaning of its creed: ""we hold these truths to be self-evident, that all men are created equal"
+DREAM_RULE,15,"i have a dream that one day on the red hills of georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood"
+LOCATION_RULE,15,"i have a dream that one day on the red hills of georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood"
+FREEDOM_RULE,16,"i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice"
+DREAM_RULE,16,"i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice"
+JUSTICE_RULE,16,"i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice"
+LOCATION_RULE,16,"i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice"
+DREAM_RULE,17,i have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character
+PEOPLE_RULE,17,i have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character
+DREAM_RULE,18,i have a dream today
+DREAM_RULE,18,"i have a dream that one day, down in alabama, with its vicious racists, with its governor having his lips dripping with the words of ""interposition"" and ""nullification"" -- one day right there in alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers"
+LOCATION_RULE,18,"i have a dream that one day, down in alabama, with its vicious racists, with its governor having his lips dripping with the words of ""interposition"" and ""nullification"" -- one day right there in alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers"
+PEOPLE_RULE,18,"i have a dream that one day, down in alabama, with its vicious racists, with its governor having his lips dripping with the words of ""interposition"" and ""nullification"" -- one day right there in alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers"
+DREAM_RULE,19,i have a dream today
+DREAM_RULE,20,"i have a dream that one day every valley shall be exalted, and every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight; ""and the glory of the lord shall be revealed and all flesh shall see it together"
+HOPE_RULE,21,"this is our hope, and this is the faith that i go back to the south with"
+FREEDOM_RULE,22,"with this faith, we will be able to work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together, knowing that we will be free one day"
+HOPE_RULE,22,"with this faith, we will be able to hew out of the mountain of despair a stone of hope"
+PEOPLE_RULE,22,"with this faith, we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood"
+PEOPLE_RULE,23,and this will be the day -- this will be the day when all of god's children will be able to sing with new meaning:
+FREEDOM_RULE,24,"land where my fathers died, land of the pilgrim's pride,    from every mountainside, let freedom ring"
+REPETITION_RULE,24,"land where my fathers died, land of the pilgrim's pride,    from every mountainside, let freedom ring"
+PEOPLE_RULE,25,"and if america is to be a great nation, this must become true"
+FREEDOM_RULE,26,and so let freedom ring from the prodigious hilltops of new hampshire
+REPETITION_RULE,26,and so let freedom ring from the prodigious hilltops of new hampshire
+FREEDOM_RULE,27,let freedom ring from the mighty mountains of new york
+LOCATION_RULE,27,let freedom ring from the mighty mountains of new york
+REPETITION_RULE,27,let freedom ring from the mighty mountains of new york
+FREEDOM_RULE,28,let freedom ring from the heightening alleghenies of pennsylvania
+REPETITION_RULE,28,let freedom ring from the heightening alleghenies of pennsylvania
+FREEDOM_RULE,29,let freedom ring from the snow-capped rockies of colorado
+REPETITION_RULE,29,let freedom ring from the snow-capped rockies of colorado
+FREEDOM_RULE,30,let freedom ring from the curvaceous slopes of california
+LOCATION_RULE,30,let freedom ring from the curvaceous slopes of california
+REPETITION_RULE,30,let freedom ring from the curvaceous slopes of california
+FREEDOM_RULE,32,let freedom ring from stone mountain of georgia
+LOCATION_RULE,32,let freedom ring from stone mountain of georgia
+REPETITION_RULE,32,let freedom ring from stone mountain of georgia
+FREEDOM_RULE,33,let freedom ring from lookout mountain of tennessee
+REPETITION_RULE,33,let freedom ring from lookout mountain of tennessee
+FREEDOM_RULE,34,let freedom ring from every hill and molehill of mississippi
+LOCATION_RULE,34,let freedom ring from every hill and molehill of mississippi
+REPETITION_RULE,34,let freedom ring from every hill and molehill of mississippi
+FREEDOM_RULE,35,"from every mountainside, let freedom ring"
+FREEDOM_RULE,35,"and when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of god's children, black men and white men, jews and gentiles, protestants and catholics, will be able to join hands and sing in the words of the old negro spiritual:"
+REPETITION_RULE,35,"from every mountainside, let freedom ring"
+PEOPLE_RULE,35,"and when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of god's children, black men and white men, jews and gentiles, protestants and catholics, will be able to join hands and sing in the words of the old negro spiritual:"

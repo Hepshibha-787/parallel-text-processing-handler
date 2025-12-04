@@ -1,0 +1,41 @@
+rule,chunk_index,sentence,correct (1|0)
+FREEDOM_RULE,0,i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation
+FREEDOM_RULE,4,"and so, we've come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice"
+FREEDOM_RULE,6,this sweltering summer of the negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality
+FREEDOM_RULE,6,let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred
+FREEDOM_RULE,7,and they have come to realize that their freedom is inextricably bound to our freedom
+DREAM_RULE,13,"and so even though we face the difficulties of today and tomorrow, i still have a dream"
+DREAM_RULE,13,it is a dream deeply rooted in the american dream
+DREAM_RULE,14,"i have a dream that one day this nation will rise up and live out the true meaning of its creed: ""we hold these truths to be self-evident, that all men are created equal"
+DREAM_RULE,15,"i have a dream that one day on the red hills of georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood"
+DREAM_RULE,16,"i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice"
+JUSTICE_RULE,4,but we refuse to believe that the bank of justice is bankrupt
+JUSTICE_RULE,4,"and so, we've come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice"
+JUSTICE_RULE,5,now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice
+JUSTICE_RULE,5,now is the time to make justice a reality for all of god's children
+JUSTICE_RULE,6,the whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges
+HOPE_RULE,1,this momentous decree came as a great beacon light of hope to millions of negro slaves who had been seared in the flames of withering injustice
+HOPE_RULE,6,and those who hope that the negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual
+HOPE_RULE,21,"this is our hope, and this is the faith that i go back to the south with"
+HOPE_RULE,22,"with this faith, we will be able to hew out of the mountain of despair a stone of hope"
+METAPHOR_RULE,3,in a sense we've come to our nation's capital to cash a check
+METAPHOR_RULE,3,"instead of honoring this sacred obligation, america has given the negro people a bad check, a check which has come back marked ""insufficient funds"
+METAPHOR_RULE,4,but we refuse to believe that the bank of justice is bankrupt
+METAPHOR_RULE,4,"and so, we've come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice"
+LOCATION_RULE,11,"""** we cannot be satisfied as long as a negro in mississippi cannot vote and a negro in new york believes he has nothing for which to vote"
+LOCATION_RULE,11,"go back to mississippi, go back to alabama, go back to south carolina, go back to georgia, go back to louisiana, go back to the slums and ghettos of our northern cities, knowing that somehow this situation can and will be changed"
+LOCATION_RULE,15,"i have a dream that one day on the red hills of georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood"
+LOCATION_RULE,16,"i have a dream that one day even the state of mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice"
+LOCATION_RULE,18,"i have a dream that one day, down in alabama, with its vicious racists, with its governor having his lips dripping with the words of ""interposition"" and ""nullification"" -- one day right there in alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers"
+EMOTION_POS_RULE,0,i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation
+EMOTION_NEG_RULE,6,let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred
+REPETITION_RULE,5,now is the time to make real the promises of democracy
+REPETITION_RULE,5,now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice
+REPETITION_RULE,5,now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood
+REPETITION_RULE,5,now is the time to make justice a reality for all of god's children
+REPETITION_RULE,6,"but there is something that i must say to my people, who stand on the warm threshold which leads into the palace of justice: in the process of gaining our rightful place, we must not be guilty of wrongful deeds"
+PEOPLE_RULE,0,i am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation
+PEOPLE_RULE,3,in a sense we've come to our nation's capital to cash a check
+PEOPLE_RULE,3,"instead of honoring this sacred obligation, america has given the negro people a bad check, a check which has come back marked ""insufficient funds"
+PEOPLE_RULE,4,we refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation
+PEOPLE_RULE,5,now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood

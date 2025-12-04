@@ -1,0 +1,11 @@
+Rule Name,Purpose,Example,Regex,Expected
+FREEDOM_RULE,Detect freedom,Let freedom ring,\bfreedom\b,Sentences with freedom
+DREAM_RULE,Detect dream lines,I have a dream,\bdream\b|\bi have a dream\b,Dream sentences
+JUSTICE_RULE,Detect justice,Make justice a reality,\bjustice\b,Justice sentences
+HOPE_RULE,Detect hope,Beacon light of hope,\bhope\b,Hope sentences
+METAPHOR_RULE,Detect metaphors,Bad check,\bbank\b|\bcheck\b|\bvault\b,Metaphor sentences
+LOCATION_RULE,Detect locations,"Georgia, Mississippi",\balabama\b|\bgeorgia\b|\bmississippi\b|\bnew york\b|\bcalifornia\b,Location sentences
+EMOTION_POS_RULE,Positive emotion,Happy to join,\bhappy\b|\bjoy\b|\bglad\b,Positive emotion
+EMOTION_NEG_RULE,Negative emotion,Bitterness and hatred,\bbitterness\b|\bharsh\b|\bhatred\b|\bhate\b,Negative emotion
+REPETITION_RULE,Detect repeated lines,Now is the time,now is the time|we must|let freedom ring,Repetition
+PEOPLE_RULE,References to people,All of God's children,\bpeople\b|\bnation\b|\bbrothers\b|\bchildren\b,People sentences
