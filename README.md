@@ -140,23 +140,23 @@ Your output folder will contain:
 
 CSV files
 
-results_dream.csv
+results_dream.csv- This file contains word frequency counts from the entire speech.
 
-matches_all_chunks.csv
+matches_all_chunks.csv-stores every single sentence that matched a rule, along with its chunk number and rule name
 
-chunk_scores.csv
+chunk_scores.csv- shows how many rules each chunk matched- a "complexity score."
 
 Database
 
-results_dream.db
+results_dream.db-  A structured database version of your output.
 
 Charts
 
-rule_distribution_pie.png
+rule_distribution_pie.png-  shows which rules matched the most sentences.
 
-word_frequency_bar.png
+word_frequency_bar.png- Top 15 meaningful words
 
-chunk_score_histogram.png
+chunk_score_histogram.png- shows how many chunks matched 0,1,1,3+ rules.
 
 🧪 10. Sample Results
 
