@@ -23,7 +23,7 @@ This pipeline represents a complete text analytics engine, built step-by-step ac
 
 📂 2. Project Structure
 
-<img width="1024" height="1536" alt=" Image Dec 10, 2025, 10_46_12 AM" src="https://github.com/user-attachments/assets/8eeff4e0-82a1-4ceb-bbd9-19dfd5077869" />
+<img width="500" height="500" alt=" Image Dec 10, 2025, 10_46_12 AM" src="https://github.com/user-attachments/assets/8eeff4e0-82a1-4ceb-bbd9-19dfd5077869" />
 
 
 
