@@ -211,7 +211,7 @@ Support multiple datasets beyond speeches
 
 
 Step 1: Clone Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Hepshibha-787/parallel-text-processing-handler
 
 Step 2: Open the Notebook
 code/final_notebook.ipynb
